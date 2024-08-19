@@ -1,3 +1,5 @@
+#Made By TheZ for simple use
+
 import subprocess
 import re
 import tkinter as tk
@@ -40,7 +42,7 @@ def show_password():
 
 # Create the Tkinter window
 root = tk.Tk()
-root.title("WLAN Password Display")
+root.title("WLAN\LAN Password Display By TheZ")
 root.geometry("300x100")
 
 # Add a button to show the password
